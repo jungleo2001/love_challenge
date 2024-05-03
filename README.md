@@ -15,7 +15,7 @@ This project requires Python 3.x. Additionally, it uses the Python Turtle module
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/fireworks-animation.git
+   git clone https://github.com/jungleo2001/love_challenge.git
    ```
 
 2. Navigate to the project directory:
@@ -52,7 +52,7 @@ Este projeto requer Python 3.x. Além disso, utiliza o módulo Python Turtle par
 1. Clone o rep:
 
    ```bash
-   git clone https://github.com/yourusername/fireworks-animation.git
+   git clone https://github.com/jungleo2001/love_challenge.git
    ```
 
 2. Navegue ate a pasta do programa:
